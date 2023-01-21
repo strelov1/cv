@@ -1,5 +1,5 @@
 # Ilya Sterlov
-Full Stack Web Developer
+Senior Software Engineer
 
 ## Contatacts
 [strelov1@gmail.com](mailto:strelov1@gmail.com) | [@i_strelov](https://t.me/i_strelov) | [linkedin](https://www.linkedin.com/in/istrelov/)
